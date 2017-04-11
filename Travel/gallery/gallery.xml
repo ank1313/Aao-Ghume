@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+	<galleryName>PhotoFlow Gallery</galleryName>
+	<settings>
+		<imagesFolder>gallery/images/</imagesFolder>
+		<thumbnailsFolder>gallery/images/</thumbnailsFolder>
+
+		<imageAngle>35</imageAngle>
+		<useScrollBar>true</useScrollBar>
+		<slideShow>false</slideShow>
+		<slideShowDelay>2</slideShowDelay>
+		<flipDuration>1</flipDuration>
+		<flipSound></flipSound>
+		<startPosition>center</startPosition>
+		<reflectionAlpha>35</reflectionAlpha>
+		<useHighlight>true</useHighlight>
+		<maxImageWidth>400</maxImageWidth>
+		<preloader stripesAlpha="45" barColor="0x000000" barAlpha="14" bgColor="0x000000" bgAlpha="10" innerShadow="20" dropShadow="30" />
+		<scrollbar bgColor="0x000000" bgAlpha="10" handleColor="0x000000" handleAlpha="16" arrowsColor="0x000000" arrowsAlpha="30" innerShadow="10" dropShadow="0" />
+		<caption textColor="0xffffff" bgColor="0x000000" bgAlpha="80" frameColor="0xffffff" frameAlpha="40" shadowAlpha="30" multilingual="false" multilingualFontSize="12" />
+	</settings>
+	<items>
+		<item source="raj1.jpg" thumb="raj11.jpg"description="Rajasthan" link="" target="_blank"/>
+		<item source="kerala2.jpg" thumb="kerala2.jpg" description="Kerala" link="" target="_blank"/>
+		<item source="guj2.jpg" thumb="guj2.jpg" description="Gujarat" link="" target="_blank"/>
+		<item source="ram1.jpg" thumb="ram1.jpg" description="Rameshwaram" link="" target="_blank"/>
+		<item source="eindia1.jpg"humb="eindia1.jpg" description="Eastern India" link="" target="_blank"/>
+		<item source="tirupati.jpg" thumb="tirupati.jpg" description="Tirupati" link="" target="_self"/>
+		<item source="Manali_India.jpg" thumb="Manali_India.jpg" description="Manali" link="" target="_self"/>
+			</items>
+</gallery>
